@@ -9,8 +9,6 @@ This repository contains the code for a simple portfolio project built using Rea
 - [Setup](#setup)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -41,8 +39,8 @@ To set up the project locally, follow these steps:
   
 3. Install the dependencies:
   ```bash
-  npm install
-```
+   npm install
+   ```
 4. Start the development server:
    ```bash
    npm start
@@ -54,10 +52,14 @@ The portfolio project includes various sections to showcase your skills, project
 
 ## Project Structure
 react-portfolio-project/
+
 ├── public/
+
 │   ├── index.html
+
 │   └── ...
 ├── src/
+
 │   ├── components/
 │   │   ├── Header.js
 │   │   ├── Footer.js
