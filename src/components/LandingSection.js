@@ -17,7 +17,7 @@ const LandingSection = () => (
   >
     <VStack spacing={10}>
       <VStack spacing={4}>
-       <Avatar src='https://bit.ly/dan-abramov'
+       <Avatar src='https://i.pravatar.cc/150?img=7'
       size='2xl' 
       name="Your Name" 
       />
