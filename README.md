@@ -38,7 +38,7 @@ To set up the project locally, follow these steps:
    cd react-portfolio-project
   
 3. Install the dependencies:
-  ```bash
+ ```bash
    npm install
    ```
 4. Start the development server:
@@ -61,16 +61,27 @@ react-portfolio-project/
 ├── src/
 
 │   ├── components/
+
 │   │   ├── Header.js
+
 │   │   ├── Footer.js
+
 │   │   ├── LandingSection.js
+
 │   │   ├── Card.js
+
 |   |   └── ...
+
 │   ├── App.js
+
 │   ├── index.js
+
 │   └── ...
+
 ├── package.json
+
 ├── README.md
+
 └── ...
 
 * 'public/' : Contains the public assets and the main HTML file
@@ -82,7 +93,7 @@ react-portfolio-project/
 ### React Basics
 ![Coursera Certificate_ReactBasics_page-0001](https://github.com/JeetDas5/Portfolio-Advance-React-Coursera/assets/165024867/7aa1606e-2449-46fe-b138-6e1053a23ec1)
 
-### React Advance
+### React Advanced
 ![Coursera Certificate_AdvanceReact_page-0001](https://github.com/JeetDas5/Portfolio-Advance-React-Coursera/assets/165024867/5f8bf5a1-75ab-40c6-8e2a-0fcba15e1292)
 
 
